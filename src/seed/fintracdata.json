@@ -1,0 +1,1547 @@
+[
+    {
+        "imports": [
+            {
+                "importid": 64823906,
+                "header": {
+                    "tradeid": 67191500,
+                    "transactionid": 22797210,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 98532885,
+                    "transactionamount": 90898400,
+                    "twentylfourhourindicator": -21504623,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 51686854,
+                    "statuscode": -83289590
+                },
+                "partb": {
+                    "companyname": 71364501,
+                    "individualsurname": -17404338,
+                    "individualgivenname": 10931640,
+                    "streetaddress": "CAD",
+                    "city": 19532474,
+                    "country": -70363578,
+                    "province": 27176929,
+                    "postalcode": -3877906,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 49921185,
+                    "individualsoccupation": -27994246,
+                    "accountnumber": -10418213,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -80490581,
+                    "idnumber": 35207095,
+                    "statuscode": -85501293
+                }
+            },
+            {
+                "importid": 52688950,
+                "header": {
+                    "tradeid": 41201109,
+                    "transactionid": 79561718,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 3996708,
+                    "transactionamount": -32381584,
+                    "twentylfourhourindicator": 80800760,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 30248101,
+                    "statuscode": -9742560
+                },
+                "partb": {
+                    "companyname": 55005240,
+                    "individualsurname": -86561735,
+                    "individualgivenname": -4375965,
+                    "streetaddress": "CAD",
+                    "city": 75798426,
+                    "country": -50423118,
+                    "province": -24225008,
+                    "postalcode": -96265348,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 89528301,
+                    "individualsoccupation": 86319427,
+                    "accountnumber": 63289352,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -2668859,
+                    "idnumber": -53973763,
+                    "statuscode": 39525277
+                }
+            },
+            {
+                "importid": 8885498,
+                "header": {
+                    "tradeid": -31607051,
+                    "transactionid": 36196161,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 95358203,
+                    "transactionamount": 4960652,
+                    "twentylfourhourindicator": 70022057,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -42451005,
+                    "statuscode": 51262074
+                },
+                "partb": {
+                    "companyname": 25025635,
+                    "individualsurname": 63457762,
+                    "individualgivenname": 17336064,
+                    "streetaddress": "CAD",
+                    "city": 56783669,
+                    "country": 24481583,
+                    "province": 97644257,
+                    "postalcode": -17272964,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -74273183,
+                    "individualsoccupation": 30972450,
+                    "accountnumber": -54579571,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 91200110,
+                    "idnumber": 35377793,
+                    "statuscode": 47958758
+                }
+            },
+            {
+                "importid": 89118964,
+                "header": {
+                    "tradeid": 61510344,
+                    "transactionid": -99815491,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 1909983,
+                    "transactionamount": 41538651,
+                    "twentylfourhourindicator": 97637937,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -34450940,
+                    "statuscode": 9828970
+                },
+                "partb": {
+                    "companyname": 19444890,
+                    "individualsurname": -1001762,
+                    "individualgivenname": 60162808,
+                    "streetaddress": "CAD",
+                    "city": 95281595,
+                    "country": -90470836,
+                    "province": -27740063,
+                    "postalcode": -70980544,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -17610215,
+                    "individualsoccupation": 19287876,
+                    "accountnumber": -11561476,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 27280970,
+                    "idnumber": 54361236,
+                    "statuscode": 4038255
+                }
+            },
+            {
+                "importid": 85176613,
+                "header": {
+                    "tradeid": 54235893,
+                    "transactionid": 69409645,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 60870200,
+                    "transactionamount": -84634552,
+                    "twentylfourhourindicator": -24851244,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -6390108,
+                    "statuscode": 3136819
+                },
+                "partb": {
+                    "companyname": 98438457,
+                    "individualsurname": -71027793,
+                    "individualgivenname": -96041617,
+                    "streetaddress": "CAD",
+                    "city": -26701708,
+                    "country": 560947,
+                    "province": -29952587,
+                    "postalcode": -2576348,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 83550314,
+                    "individualsoccupation": -49844011,
+                    "accountnumber": -85930318,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -6667950,
+                    "idnumber": 11796015,
+                    "statuscode": -76292085
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 29890878,
+                "header": {
+                    "tradeid": 52585114,
+                    "transactionid": 9122641,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 62637130,
+                    "transactionamount": -93911620,
+                    "twentylfourhourindicator": -65220668,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -7400817,
+                    "statuscode": 58849826
+                },
+                "partb": {
+                    "companyname": 23964846,
+                    "individualsurname": 59719733,
+                    "individualgivenname": -81782110,
+                    "streetaddress": "CAD",
+                    "city": -39219487,
+                    "country": 16893547,
+                    "province": -66271239,
+                    "postalcode": -48389829,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -61470829,
+                    "individualsoccupation": -62865531,
+                    "accountnumber": 88037616,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -40261327,
+                    "idnumber": 54579459,
+                    "statuscode": -86192577
+                }
+            },
+            {
+                "importid": 25369064,
+                "header": {
+                    "tradeid": 98099256,
+                    "transactionid": -73482288,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 67877845,
+                    "transactionamount": -34973732,
+                    "twentylfourhourindicator": -58192876,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 34513624,
+                    "statuscode": 58878956
+                },
+                "partb": {
+                    "companyname": 17954116,
+                    "individualsurname": -89445510,
+                    "individualgivenname": 28018165,
+                    "streetaddress": "CAD",
+                    "city": 98867684,
+                    "country": 22829018,
+                    "province": 5868191,
+                    "postalcode": -52283785,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 82686754,
+                    "individualsoccupation": 69057388,
+                    "accountnumber": -66551532,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -37236480,
+                    "idnumber": -18956150,
+                    "statuscode": 79324523
+                }
+            },
+            {
+                "importid": 78873123,
+                "header": {
+                    "tradeid": -31431560,
+                    "transactionid": -70590072,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 10628561,
+                    "transactionamount": 65004308,
+                    "twentylfourhourindicator": -5498930,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 82802798,
+                    "statuscode": 8742128
+                },
+                "partb": {
+                    "companyname": 40550228,
+                    "individualsurname": -84664002,
+                    "individualgivenname": -24297335,
+                    "streetaddress": "CAD",
+                    "city": 2453216,
+                    "country": 18957160,
+                    "province": -46747706,
+                    "postalcode": 70828657,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 86238149,
+                    "individualsoccupation": 49518021,
+                    "accountnumber": -4079059,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -26855603,
+                    "idnumber": 31873357,
+                    "statuscode": 84242465
+                }
+            },
+            {
+                "importid": 45370620,
+                "header": {
+                    "tradeid": -84782002,
+                    "transactionid": 56962257,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 58949354,
+                    "transactionamount": 58949241,
+                    "twentylfourhourindicator": -5424593,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 57293172,
+                    "statuscode": 43347467
+                },
+                "partb": {
+                    "companyname": 94222591,
+                    "individualsurname": 50520028,
+                    "individualgivenname": -18598544,
+                    "streetaddress": "CAD",
+                    "city": 67876527,
+                    "country": 7683905,
+                    "province": -33940736,
+                    "postalcode": 13557696,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -33033984,
+                    "individualsoccupation": 57455906,
+                    "accountnumber": 54572623,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 84851471,
+                    "idnumber": 44813065,
+                    "statuscode": -65267046
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 2042490,
+                "header": {
+                    "tradeid": -2393679,
+                    "transactionid": 34739056,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 89476411,
+                    "transactionamount": 16703913,
+                    "twentylfourhourindicator": 39972531,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -17413913,
+                    "statuscode": -81753108
+                },
+                "partb": {
+                    "companyname": 39190681,
+                    "individualsurname": 20315051,
+                    "individualgivenname": 93884130,
+                    "streetaddress": "CAD",
+                    "city": -27329081,
+                    "country": -41926026,
+                    "province": 45369091,
+                    "postalcode": 93700306,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -78108325,
+                    "individualsoccupation": -83954146,
+                    "accountnumber": -33635658,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 81790162,
+                    "idnumber": 28908605,
+                    "statuscode": -34817947
+                }
+            },
+            {
+                "importid": 94848759,
+                "header": {
+                    "tradeid": -19959295,
+                    "transactionid": 30831826,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 64927837,
+                    "transactionamount": 79109054,
+                    "twentylfourhourindicator": -27885248,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 89110213,
+                    "statuscode": -33651534
+                },
+                "partb": {
+                    "companyname": 286929,
+                    "individualsurname": 94451016,
+                    "individualgivenname": 5867859,
+                    "streetaddress": "CAD",
+                    "city": 69290292,
+                    "country": -25772846,
+                    "province": -91817765,
+                    "postalcode": -33290054,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -9447556,
+                    "individualsoccupation": -10802404,
+                    "accountnumber": 31250953,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 24868600,
+                    "idnumber": -63246943,
+                    "statuscode": 7648723
+                }
+            },
+            {
+                "importid": 4738620,
+                "header": {
+                    "tradeid": 34339473,
+                    "transactionid": -35278636,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 46791774,
+                    "transactionamount": 91299026,
+                    "twentylfourhourindicator": -78314459,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -71941954,
+                    "statuscode": 65191382
+                },
+                "partb": {
+                    "companyname": 58150907,
+                    "individualsurname": 6784511,
+                    "individualgivenname": -60752619,
+                    "streetaddress": "CAD",
+                    "city": -13761404,
+                    "country": 78470801,
+                    "province": 7961270,
+                    "postalcode": 45388883,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -84861005,
+                    "individualsoccupation": -75660222,
+                    "accountnumber": 71111341,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 81260550,
+                    "idnumber": -69928526,
+                    "statuscode": -68093891
+                }
+            },
+            {
+                "importid": 33097122,
+                "header": {
+                    "tradeid": 10935563,
+                    "transactionid": -85871625,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 45361684,
+                    "transactionamount": -31779459,
+                    "twentylfourhourindicator": -81952742,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -10280976,
+                    "statuscode": 30527215
+                },
+                "partb": {
+                    "companyname": 50907742,
+                    "individualsurname": -95101694,
+                    "individualgivenname": 37638056,
+                    "streetaddress": "CAD",
+                    "city": -63141540,
+                    "country": -55479264,
+                    "province": 8303848,
+                    "postalcode": 86496556,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 1800874,
+                    "individualsoccupation": 57876258,
+                    "accountnumber": 10252253,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -95629033,
+                    "idnumber": -98299759,
+                    "statuscode": 44515563
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 58755089,
+                "header": {
+                    "tradeid": 36338959,
+                    "transactionid": -36441818,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 68970262,
+                    "transactionamount": 51627747,
+                    "twentylfourhourindicator": 43179797,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 3071830,
+                    "statuscode": 7019646
+                },
+                "partb": {
+                    "companyname": 17250475,
+                    "individualsurname": 46276778,
+                    "individualgivenname": -19300931,
+                    "streetaddress": "CAD",
+                    "city": -32889768,
+                    "country": 38201584,
+                    "province": -80963941,
+                    "postalcode": -72539245,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 68766862,
+                    "individualsoccupation": -65099746,
+                    "accountnumber": 14889845,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 42998976,
+                    "idnumber": -32099303,
+                    "statuscode": 4451557
+                }
+            },
+            {
+                "importid": 87369012,
+                "header": {
+                    "tradeid": 4295956,
+                    "transactionid": -934150,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 63294556,
+                    "transactionamount": 53578393,
+                    "twentylfourhourindicator": -61923828,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -77883128,
+                    "statuscode": -35728266
+                },
+                "partb": {
+                    "companyname": 988493,
+                    "individualsurname": 67344091,
+                    "individualgivenname": 58805724,
+                    "streetaddress": "CAD",
+                    "city": 27644987,
+                    "country": 904853,
+                    "province": -91885248,
+                    "postalcode": -7702101,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -41205783,
+                    "individualsoccupation": 67501922,
+                    "accountnumber": 60523776,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -91634541,
+                    "idnumber": -46761456,
+                    "statuscode": -15345499
+                }
+            },
+            {
+                "importid": 6557312,
+                "header": {
+                    "tradeid": 15412462,
+                    "transactionid": -92578882,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 87078521,
+                    "transactionamount": 90058240,
+                    "twentylfourhourindicator": 55590331,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 38102311,
+                    "statuscode": -72824557
+                },
+                "partb": {
+                    "companyname": 4350642,
+                    "individualsurname": -2989017,
+                    "individualgivenname": 63133972,
+                    "streetaddress": "CAD",
+                    "city": 3175390,
+                    "country": 24881701,
+                    "province": 13379670,
+                    "postalcode": -1516274,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -40496613,
+                    "individualsoccupation": 33332899,
+                    "accountnumber": -28418551,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -94536313,
+                    "idnumber": -75498670,
+                    "statuscode": 10544122
+                }
+            },
+            {
+                "importid": 5334576,
+                "header": {
+                    "tradeid": -38200629,
+                    "transactionid": -48868566,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 88943481,
+                    "transactionamount": -29410163,
+                    "twentylfourhourindicator": -16405737,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 79978020,
+                    "statuscode": -10893601
+                },
+                "partb": {
+                    "companyname": 31397818,
+                    "individualsurname": 91972258,
+                    "individualgivenname": -12750912,
+                    "streetaddress": "CAD",
+                    "city": 80146873,
+                    "country": -25344059,
+                    "province": -21104725,
+                    "postalcode": 94833566,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 16187996,
+                    "individualsoccupation": 67954961,
+                    "accountnumber": 14780308,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -23352105,
+                    "idnumber": -77570139,
+                    "statuscode": -58942602
+                }
+            },
+            {
+                "importid": 37552650,
+                "header": {
+                    "tradeid": -78481968,
+                    "transactionid": -19180680,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 14774577,
+                    "transactionamount": -15189285,
+                    "twentylfourhourindicator": -31889315,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -30754432,
+                    "statuscode": -46447080
+                },
+                "partb": {
+                    "companyname": 76136218,
+                    "individualsurname": 59607780,
+                    "individualgivenname": -35584883,
+                    "streetaddress": "CAD",
+                    "city": 90867716,
+                    "country": -65769489,
+                    "province": -70813445,
+                    "postalcode": 64502240,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -88377158,
+                    "individualsoccupation": -86268407,
+                    "accountnumber": 83242865,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -78929541,
+                    "idnumber": 80413148,
+                    "statuscode": -38613838
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 31586879,
+                "header": {
+                    "tradeid": 3266199,
+                    "transactionid": 62218723,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 5217270,
+                    "transactionamount": 67789022,
+                    "twentylfourhourindicator": 30093709,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -97395980,
+                    "statuscode": -73569078
+                },
+                "partb": {
+                    "companyname": 69174342,
+                    "individualsurname": 65659634,
+                    "individualgivenname": 25663465,
+                    "streetaddress": "CAD",
+                    "city": -87552228,
+                    "country": 38439295,
+                    "province": -47316887,
+                    "postalcode": -93268632,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -9457765,
+                    "individualsoccupation": 7795380,
+                    "accountnumber": -22387724,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 34205098,
+                    "idnumber": -32346004,
+                    "statuscode": -83661488
+                }
+            },
+            {
+                "importid": 12467695,
+                "header": {
+                    "tradeid": -25489150,
+                    "transactionid": -85482220,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 84832377,
+                    "transactionamount": -38315920,
+                    "twentylfourhourindicator": 57125987,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -48587579,
+                    "statuscode": -97221841
+                },
+                "partb": {
+                    "companyname": 12025496,
+                    "individualsurname": 92091421,
+                    "individualgivenname": 17640209,
+                    "streetaddress": "CAD",
+                    "city": 43082586,
+                    "country": -97826805,
+                    "province": -89936316,
+                    "postalcode": -73033184,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 13478978,
+                    "individualsoccupation": -77355925,
+                    "accountnumber": 38848884,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 3170838,
+                    "idnumber": -49435373,
+                    "statuscode": -97448438
+                }
+            },
+            {
+                "importid": 79855738,
+                "header": {
+                    "tradeid": -79760354,
+                    "transactionid": 69034164,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 41039790,
+                    "transactionamount": 38901531,
+                    "twentylfourhourindicator": 77446137,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 80682958,
+                    "statuscode": 61658787
+                },
+                "partb": {
+                    "companyname": 51566484,
+                    "individualsurname": 81240295,
+                    "individualgivenname": -51122384,
+                    "streetaddress": "CAD",
+                    "city": 44447004,
+                    "country": -87561461,
+                    "province": 58155005,
+                    "postalcode": 30003773,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 14950789,
+                    "individualsoccupation": -93223351,
+                    "accountnumber": 95911,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 99539542,
+                    "idnumber": 99884057,
+                    "statuscode": -90152243
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 41949872,
+                "header": {
+                    "tradeid": 17899773,
+                    "transactionid": 59119792,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 69914095,
+                    "transactionamount": -90447569,
+                    "twentylfourhourindicator": 30440667,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 74971908,
+                    "statuscode": 99445518
+                },
+                "partb": {
+                    "companyname": 41201959,
+                    "individualsurname": -34048833,
+                    "individualgivenname": -55037236,
+                    "streetaddress": "CAD",
+                    "city": -17409233,
+                    "country": -25824948,
+                    "province": 30951346,
+                    "postalcode": -88805245,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -91608792,
+                    "individualsoccupation": 90955366,
+                    "accountnumber": -96633107,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -37330605,
+                    "idnumber": -2136875,
+                    "statuscode": 18745973
+                }
+            },
+            {
+                "importid": 38581711,
+                "header": {
+                    "tradeid": -507734,
+                    "transactionid": -60986365,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 75822298,
+                    "transactionamount": -40529432,
+                    "twentylfourhourindicator": -58563812,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 9701783,
+                    "statuscode": -30028499
+                },
+                "partb": {
+                    "companyname": 80597431,
+                    "individualsurname": -99438255,
+                    "individualgivenname": -75077793,
+                    "streetaddress": "CAD",
+                    "city": -23503187,
+                    "country": 78736788,
+                    "province": -90287069,
+                    "postalcode": -4374220,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -88869741,
+                    "individualsoccupation": -86975928,
+                    "accountnumber": -58132713,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -21602974,
+                    "idnumber": 97979459,
+                    "statuscode": -64034054
+                }
+            },
+            {
+                "importid": 69449780,
+                "header": {
+                    "tradeid": -44317297,
+                    "transactionid": -53861856,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 27993414,
+                    "transactionamount": -63540974,
+                    "twentylfourhourindicator": -69615630,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 37291247,
+                    "statuscode": -70808491
+                },
+                "partb": {
+                    "companyname": 42923116,
+                    "individualsurname": -97042284,
+                    "individualgivenname": 23348057,
+                    "streetaddress": "CAD",
+                    "city": 28979818,
+                    "country": 17152691,
+                    "province": 16690402,
+                    "postalcode": -64504823,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 92943204,
+                    "individualsoccupation": -36737908,
+                    "accountnumber": -17822487,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 49880500,
+                    "idnumber": 11490973,
+                    "statuscode": -1285375
+                }
+            },
+            {
+                "importid": 3568025,
+                "header": {
+                    "tradeid": -88853915,
+                    "transactionid": -78427647,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 14526094,
+                    "transactionamount": 44507530,
+                    "twentylfourhourindicator": -5781886,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 1429380,
+                    "statuscode": -94434031
+                },
+                "partb": {
+                    "companyname": 21828922,
+                    "individualsurname": 64516215,
+                    "individualgivenname": -91065044,
+                    "streetaddress": "CAD",
+                    "city": 22699179,
+                    "country": 64127316,
+                    "province": 3861188,
+                    "postalcode": -17470412,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 54212451,
+                    "individualsoccupation": 79307037,
+                    "accountnumber": -31101954,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 59819441,
+                    "idnumber": 65274744,
+                    "statuscode": 46767122
+                }
+            },
+            {
+                "importid": 6694356,
+                "header": {
+                    "tradeid": -13929452,
+                    "transactionid": -1220548,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 67272145,
+                    "transactionamount": 93482074,
+                    "twentylfourhourindicator": -19738482,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 37610331,
+                    "statuscode": -99763268
+                },
+                "partb": {
+                    "companyname": 766315,
+                    "individualsurname": -62432638,
+                    "individualgivenname": 39459069,
+                    "streetaddress": "CAD",
+                    "city": -83174674,
+                    "country": -38835067,
+                    "province": 21537995,
+                    "postalcode": -47701804,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 87321210,
+                    "individualsoccupation": -52911447,
+                    "accountnumber": -89795491,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 81115465,
+                    "idnumber": 35557394,
+                    "statuscode": 70591041
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 49386774,
+                "header": {
+                    "tradeid": -97516165,
+                    "transactionid": 59770967,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 66413457,
+                    "transactionamount": 88347497,
+                    "twentylfourhourindicator": 73701440,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -19830609,
+                    "statuscode": 62079505
+                },
+                "partb": {
+                    "companyname": 83850773,
+                    "individualsurname": -35075648,
+                    "individualgivenname": -66303441,
+                    "streetaddress": "CAD",
+                    "city": 62073193,
+                    "country": 6617008,
+                    "province": 31117137,
+                    "postalcode": 67905041,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 47086115,
+                    "individualsoccupation": -36071150,
+                    "accountnumber": 50423912,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -68021025,
+                    "idnumber": -67153444,
+                    "statuscode": -9255534
+                }
+            },
+            {
+                "importid": 44628601,
+                "header": {
+                    "tradeid": 55293200,
+                    "transactionid": -20428302,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 35862355,
+                    "transactionamount": -60802577,
+                    "twentylfourhourindicator": -79064789,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 33381850,
+                    "statuscode": -85689848
+                },
+                "partb": {
+                    "companyname": 46949927,
+                    "individualsurname": 13532592,
+                    "individualgivenname": 85664170,
+                    "streetaddress": "CAD",
+                    "city": 59564909,
+                    "country": -75317043,
+                    "province": 12699842,
+                    "postalcode": -35355235,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -37972276,
+                    "individualsoccupation": -55728196,
+                    "accountnumber": -15748263,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -62390933,
+                    "idnumber": 36401032,
+                    "statuscode": 53684691
+                }
+            },
+            {
+                "importid": 55014620,
+                "header": {
+                    "tradeid": -21753187,
+                    "transactionid": -59327644,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 88208116,
+                    "transactionamount": 75980813,
+                    "twentylfourhourindicator": -2858714,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -53096410,
+                    "statuscode": -51419726
+                },
+                "partb": {
+                    "companyname": 33749997,
+                    "individualsurname": -92770309,
+                    "individualgivenname": -8776913,
+                    "streetaddress": "CAD",
+                    "city": -71919833,
+                    "country": 92529538,
+                    "province": 29094967,
+                    "postalcode": 24152551,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 76704547,
+                    "individualsoccupation": -76541051,
+                    "accountnumber": 26465600,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 31563802,
+                    "idnumber": -48135844,
+                    "statuscode": -10298228
+                }
+            },
+            {
+                "importid": 33328730,
+                "header": {
+                    "tradeid": -16753140,
+                    "transactionid": 79984860,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 75349375,
+                    "transactionamount": -31328283,
+                    "twentylfourhourindicator": -29247568,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -53462943,
+                    "statuscode": -75002836
+                },
+                "partb": {
+                    "companyname": 71251275,
+                    "individualsurname": -57167708,
+                    "individualgivenname": -73809483,
+                    "streetaddress": "CAD",
+                    "city": 17607855,
+                    "country": -76068011,
+                    "province": -51096226,
+                    "postalcode": 73366415,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 13679754,
+                    "individualsoccupation": 50929171,
+                    "accountnumber": 10280396,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 56014371,
+                    "idnumber": -62192834,
+                    "statuscode": -74794900
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 73248255,
+                "header": {
+                    "tradeid": -93985107,
+                    "transactionid": -7233148,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 23382206,
+                    "transactionamount": -99103188,
+                    "twentylfourhourindicator": 87178851,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 26467041,
+                    "statuscode": -57598946
+                },
+                "partb": {
+                    "companyname": 40082811,
+                    "individualsurname": 4054389,
+                    "individualgivenname": 93609391,
+                    "streetaddress": "CAD",
+                    "city": 91526442,
+                    "country": -13224974,
+                    "province": -27733109,
+                    "postalcode": -55963250,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -95815632,
+                    "individualsoccupation": -42262072,
+                    "accountnumber": -38540159,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 61932186,
+                    "idnumber": -1112633,
+                    "statuscode": -42845053
+                }
+            },
+            {
+                "importid": 89459531,
+                "header": {
+                    "tradeid": 16086108,
+                    "transactionid": 76256329,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 10900401,
+                    "transactionamount": 61641884,
+                    "twentylfourhourindicator": -53010913,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 68798712,
+                    "statuscode": 63247937
+                },
+                "partb": {
+                    "companyname": 18917282,
+                    "individualsurname": -48649414,
+                    "individualgivenname": 33260965,
+                    "streetaddress": "CAD",
+                    "city": 86783031,
+                    "country": 2909241,
+                    "province": 78183369,
+                    "postalcode": 50667979,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 82064945,
+                    "individualsoccupation": 36443308,
+                    "accountnumber": -585634,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 96220582,
+                    "idnumber": -1699932,
+                    "statuscode": -47381216
+                }
+            },
+            {
+                "importid": 31800943,
+                "header": {
+                    "tradeid": -72231253,
+                    "transactionid": -46879367,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 35295380,
+                    "transactionamount": -27101906,
+                    "twentylfourhourindicator": -6215343,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -19527584,
+                    "statuscode": -65135927
+                },
+                "partb": {
+                    "companyname": 82922691,
+                    "individualsurname": -72893821,
+                    "individualgivenname": -54638172,
+                    "streetaddress": "CAD",
+                    "city": 13766521,
+                    "country": 8533738,
+                    "province": 51973423,
+                    "postalcode": -15074890,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 33716680,
+                    "individualsoccupation": -86971732,
+                    "accountnumber": 54620722,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -77712793,
+                    "idnumber": 43304277,
+                    "statuscode": -2058722
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 73704751,
+                "header": {
+                    "tradeid": 13755506,
+                    "transactionid": -11623873,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 29658970,
+                    "transactionamount": 56563226,
+                    "twentylfourhourindicator": 41003423,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -579840,
+                    "statuscode": -66815800
+                },
+                "partb": {
+                    "companyname": 14484112,
+                    "individualsurname": -40916851,
+                    "individualgivenname": 66725479,
+                    "streetaddress": "CAD",
+                    "city": 69480797,
+                    "country": -65924531,
+                    "province": -65956274,
+                    "postalcode": -18759939,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 15677466,
+                    "individualsoccupation": -78108659,
+                    "accountnumber": -45231899,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 22630584,
+                    "idnumber": 93286927,
+                    "statuscode": -78593789
+                }
+            },
+            {
+                "importid": 21803468,
+                "header": {
+                    "tradeid": -97794958,
+                    "transactionid": -5022374,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 5453126,
+                    "transactionamount": -59881455,
+                    "twentylfourhourindicator": 78936243,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 5148352,
+                    "statuscode": -12070778
+                },
+                "partb": {
+                    "companyname": 13642042,
+                    "individualsurname": 90858060,
+                    "individualgivenname": 94472393,
+                    "streetaddress": "CAD",
+                    "city": 61124028,
+                    "country": 11588584,
+                    "province": -60646290,
+                    "postalcode": 31157557,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -22849406,
+                    "individualsoccupation": 98956732,
+                    "accountnumber": 52241172,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -55298512,
+                    "idnumber": -14132145,
+                    "statuscode": -41816247
+                }
+            },
+            {
+                "importid": 31250796,
+                "header": {
+                    "tradeid": 81426329,
+                    "transactionid": 40876498,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 4449494,
+                    "transactionamount": -27049959,
+                    "twentylfourhourindicator": 67435092,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -62073600,
+                    "statuscode": -82587677
+                },
+                "partb": {
+                    "companyname": 69276261,
+                    "individualsurname": -55989585,
+                    "individualgivenname": 12220090,
+                    "streetaddress": "CAD",
+                    "city": -17833215,
+                    "country": 55516720,
+                    "province": 84203059,
+                    "postalcode": -97552258,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 62004525,
+                    "individualsoccupation": 43996562,
+                    "accountnumber": 58983040,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 51585885,
+                    "idnumber": 17552777,
+                    "statuscode": 57394210
+                }
+            },
+            {
+                "importid": 996947,
+                "header": {
+                    "tradeid": 3173945,
+                    "transactionid": -4757128,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 17247936,
+                    "transactionamount": 15515115,
+                    "twentylfourhourindicator": -2829484,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 41445028,
+                    "statuscode": -22434196
+                },
+                "partb": {
+                    "companyname": 57484619,
+                    "individualsurname": 73089912,
+                    "individualgivenname": -5773897,
+                    "streetaddress": "CAD",
+                    "city": 49880632,
+                    "country": -2481592,
+                    "province": -48753185,
+                    "postalcode": -57417048,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 31643404,
+                    "individualsoccupation": -68803595,
+                    "accountnumber": 77079349,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 64997409,
+                    "idnumber": 73516602,
+                    "statuscode": -54198729
+                }
+            },
+            {
+                "importid": 50057837,
+                "header": {
+                    "tradeid": 6634669,
+                    "transactionid": -57392748,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 92632810,
+                    "transactionamount": -16671697,
+                    "twentylfourhourindicator": -6370914,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -67613318,
+                    "statuscode": -68105888
+                },
+                "partb": {
+                    "companyname": 62090711,
+                    "individualsurname": -70126288,
+                    "individualgivenname": -69035595,
+                    "streetaddress": "CAD",
+                    "city": -37249757,
+                    "country": -75389075,
+                    "province": -6166241,
+                    "postalcode": 83316527,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -71514582,
+                    "individualsoccupation": -22545596,
+                    "accountnumber": -43219067,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 58323590,
+                    "idnumber": 884416,
+                    "statuscode": -23823691
+                }
+            }
+        ]
+    },
+    {
+        "imports": [
+            {
+                "importid": 18592281,
+                "header": {
+                    "tradeid": -62567274,
+                    "transactionid": -74449591,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 4850913,
+                    "transactionamount": -46833298,
+                    "twentylfourhourindicator": 25724368,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -43408457,
+                    "statuscode": 51276799
+                },
+                "partb": {
+                    "companyname": 41811527,
+                    "individualsurname": 6135989,
+                    "individualgivenname": -80797758,
+                    "streetaddress": "CAD",
+                    "city": 21833915,
+                    "country": 71244060,
+                    "province": 44954559,
+                    "postalcode": 23265481,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -20540476,
+                    "individualsoccupation": -66479110,
+                    "accountnumber": -67789773,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -86682939,
+                    "idnumber": -94342271,
+                    "statuscode": -94658248
+                }
+            },
+            {
+                "importid": 23135794,
+                "header": {
+                    "tradeid": -12699388,
+                    "transactionid": 40529823,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 86801787,
+                    "transactionamount": -7342932,
+                    "twentylfourhourindicator": -1060731,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 3627096,
+                    "statuscode": 34498169
+                },
+                "partb": {
+                    "companyname": 28414490,
+                    "individualsurname": -90295280,
+                    "individualgivenname": -75738029,
+                    "streetaddress": "CAD",
+                    "city": 5327010,
+                    "country": 65228761,
+                    "province": -29261949,
+                    "postalcode": 26097630,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": 99043609,
+                    "individualsoccupation": 97466300,
+                    "accountnumber": 31350929,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -74213478,
+                    "idnumber": 28904522,
+                    "statuscode": 78496216
+                }
+            },
+            {
+                "importid": 59337927,
+                "header": {
+                    "tradeid": 71515423,
+                    "transactionid": 12975626,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTO"
+                },
+                "parta": {
+                    "transactiondate_time": 95360337,
+                    "transactionamount": 4166477,
+                    "twentylfourhourindicator": -78956590,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 21054916,
+                    "statuscode": -98062655
+                },
+                "partb": {
+                    "companyname": 32758962,
+                    "individualsurname": 89944985,
+                    "individualgivenname": -18782968,
+                    "streetaddress": "CAD",
+                    "city": -98482031,
+                    "country": 293139,
+                    "province": 3803835,
+                    "postalcode": 44751851,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -76371078,
+                    "individualsoccupation": 57598077,
+                    "accountnumber": -42819939,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -59713479,
+                    "idnumber": 46015860,
+                    "statuscode": -23862496
+                }
+            },
+            {
+                "importid": 19504420,
+                "header": {
+                    "tradeid": 58480315,
+                    "transactionid": -52972754,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 47479664,
+                    "transactionamount": -7137412,
+                    "twentylfourhourindicator": -92329459,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": 39475285,
+                    "statuscode": 26232202
+                },
+                "partb": {
+                    "companyname": 47432040,
+                    "individualsurname": -93846979,
+                    "individualgivenname": -95501136,
+                    "streetaddress": "CAD",
+                    "city": 63875718,
+                    "country": 75758090,
+                    "province": -66430035,
+                    "postalcode": 14154143,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -93573858,
+                    "individualsoccupation": -83593453,
+                    "accountnumber": 15199818,
+                    "individualidentifier": "CAD",
+                    "otherdescription": -9081178,
+                    "idnumber": 9918892,
+                    "statuscode": -97926973
+                }
+            },
+            {
+                "importid": 94099956,
+                "header": {
+                    "tradeid": -86662775,
+                    "transactionid": 19797549,
+                    "transactionsource": "TradePayments",
+                    "reporttype": "EFTI"
+                },
+                "parta": {
+                    "transactiondate_time": 24434324,
+                    "transactionamount": 62452025,
+                    "twentylfourhourindicator": 90741622,
+                    "transactioncurrency": "CAD",
+                    "exchangerate": -65641525,
+                    "statuscode": 47225367
+                },
+                "partb": {
+                    "companyname": 81946018,
+                    "individualsurname": 68424758,
+                    "individualgivenname": -69647325,
+                    "streetaddress": "CAD",
+                    "city": -69123873,
+                    "country": 56402374,
+                    "province": 12622087,
+                    "postalcode": 78676200,
+                    "telephonenumber": "CAD",
+                    "individualdateofbirth": -32763836,
+                    "individualsoccupation": -64890501,
+                    "accountnumber": 53064973,
+                    "individualidentifier": "CAD",
+                    "otherdescription": 51002578,
+                    "idnumber": 70211369,
+                    "statuscode": -63056962
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,566 @@
+{
+    "name": {
+        "namespaceURI": "",
+        "localPart": "report",
+        "prefix": "",
+        "key": "report",
+        "string": "report"
+    },
+    "value": {
+        "TYPE_NAME": "NZ.Report",
+        "rentityId": 10109,
+        "rentityBranch": "1234 Test Street Thorndon Wellington",
+        "submissionCode": "E",
+        "reportCode": "STR",
+        "entityReference": "MMouse 1 Dec 2015",
+        "submissionDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 16,
+            "hour": 9,
+            "minute": 48,
+            "second": 24,
+            "fractionalSecond": 0.7176498,
+            "timezone": 780,
+            "date": "2015-12-15T20:48:24.717Z"
+        },
+        "currencyCodeLocal": "NZD",
+        "reportingPerson": {
+            "TYPE_NAME": "NZ.TPersonRegistrationInReport",
+            "title": {
+                "name": {
+                    "namespaceURI": "",
+                    "localPart": "title",
+                    "prefix": "",
+                    "key": "title",
+                    "string": "title"
+                },
+                "value": "Mr"
+            },
+            "firstName": "Test testtestsetsest",
+            "lastName": "test",
+            "phones": {
+                "TYPE_NAME": "NZ.TPersonRegistrationInReport.Phones",
+                "phone": [
+                    {
+                        "TYPE_NAME": "NZ.TPhone",
+                        "tphContactType": "C",
+                        "tphCommunicationType": "B",
+                        "tphNumber": "21454541"
+                    }
+                ]
+            },
+            "addresses": {
+                "TYPE_NAME": "NZ.TPersonRegistrationInReport.Addresses",
+                "address": [
+                    {
+                        "TYPE_NAME": "NZ.TAddress",
+                        "addressType": "C",
+                        "address": "1234 TEST STREET",
+                        "city": "Wellington",
+                        "zip": "3213",
+                        "countryCode": "NZ",
+                        "state": "Thorndon"
+                    }
+                ]
+            },
+            "email": [
+                "doesn_exist@dontbother.com"
+            ],
+            "occupation": "Bank"
+        },
+        "location": {
+            "TYPE_NAME": "NZ.TAddress",
+            "addressType": "C",
+            "address": "1234 TEST STREET",
+            "city": "Wellington",
+            "zip": "3213",
+            "countryCode": "NZ",
+            "state": "Thorndon"
+        },
+        "reason": "On the 01/12/15 Mickey MOUSE deposited $10,000 cash in $20 notes at our Manners Street branch.  The cash smelt strongly of Cannabis.\r\n\r\nThe following day Mickey MOUSE returned to our Manners Street branch and purchased a Bank Cheque for CNY 21,284 made payable to Donald Duck Enterprises in China.  Open source searches show Donald Duck Enterprises sell hydroponic gardening equipment(see link https://www.google.co.nz/search.etc etc)\r\n\r\nWe suspect the funds banked by Mickey MOUSE  have been obtained through illegal means, more than likely drug cultivation.",
+        "transaction": [
+            {
+                "TYPE_NAME": "NZ.Report.Transaction",
+                "transactionnumber": "TW00000901-161215",
+                "transactionLocation": "1 Manners Street Wellington ",
+                "dateTransaction": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0,
+                    "fractionalSecond": 0,
+                    "timezone": null,
+                    "date": "2015-12-01T00:00:00.000Z"
+                },
+                "transmodeCode": "BG",
+                "amountLocal": 10000,
+                "tFromMyClient": {
+                    "TYPE_NAME": "NZ.Report.Transaction.TFromMyClient",
+                    "fromFundsCode": "D",
+                    "fromFundsComment": "$20 notes",
+                    "fromPerson": {
+                        "TYPE_NAME": "NZ.TPersonMyClient",
+                        "gender": "M",
+                        "title": {
+                            "name": {
+                                "namespaceURI": "",
+                                "localPart": "title",
+                                "prefix": "",
+                                "key": "title",
+                                "string": "title"
+                            },
+                            "value": "Mr"
+                        },
+                        "firstName": "Mickey",
+                        "lastName": "Mouse",
+                        "birthdate": {
+                            "year": 1970,
+                            "month": 2,
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0,
+                            "second": 0,
+                            "fractionalSecond": 0,
+                            "timezone": null,
+                            "date": "1970-02-01T00:00:00.000Z"
+                        },
+                        "passportNumber": "AA1234567",
+                        "passportCountry": "NZ",
+                        "residence": "NZ",
+                        "phones": {
+                            "TYPE_NAME": "NZ.TPersonMyClient.Phones",
+                            "phone": [
+                                {
+                                    "TYPE_NAME": "NZ.TPhone",
+                                    "tphContactType": "I",
+                                    "tphCommunicationType": "B",
+                                    "tphCountryPrefix": "64",
+                                    "tphNumber": "045678910"
+                                }
+                            ]
+                        },
+                        "addresses": {
+                            "TYPE_NAME": "NZ.TPersonMyClient.Addresses",
+                            "address": [
+                                {
+                                    "TYPE_NAME": "NZ.TAddress",
+                                    "addressType": "I",
+                                    "address": "24 Disney Street",
+                                    "city": "Wellington",
+                                    "zip": "6010",
+                                    "countryCode": "NZ"
+                                }
+                            ]
+                        },
+                        "email": [
+                            "mickeymouse@disney.co.nz"
+                        ],
+                        "employerAddressId": {
+                            "TYPE_NAME": "NZ.TAddress",
+                            "addressType": "S",
+                            "address": "3 Rodent Grove",
+                            "city": "Lower Hutt",
+                            "zip": "5010",
+                            "countryCode": "NZ"
+                        },
+                        "employerPhoneId": {
+                            "TYPE_NAME": "NZ.TPhone",
+                            "tphContactType": "S",
+                            "tphCommunicationType": "B",
+                            "tphCountryPrefix": "64",
+                            "tphNumber": "0499887766",
+                            "tphExtension": "45321"
+                        },
+                        "identification": [
+                            {
+                                "TYPE_NAME": "NZ.TPersonIdentification",
+                                "type": "A",
+                                "number": "AA222222",
+                                "issueCountry": "NZ"
+                            },
+                            {
+                                "TYPE_NAME": "NZ.TPersonIdentification",
+                                "type": "F",
+                                "number": "AA1234567",
+                                "issueDate": {
+                                    "year": 2012,
+                                    "month": 5,
+                                    "day": 15,
+                                    "hour": 0,
+                                    "minute": 0,
+                                    "second": 0,
+                                    "fractionalSecond": 0,
+                                    "timezone": null,
+                                    "date": "2012-05-15T00:00:00.000Z"
+                                },
+                                "expiryDate": {
+                                    "year": 2017,
+                                    "month": 5,
+                                    "day": 15,
+                                    "hour": 0,
+                                    "minute": 0,
+                                    "second": 0,
+                                    "fractionalSecond": 0,
+                                    "timezone": null,
+                                    "date": "2017-05-15T00:00:00.000Z"
+                                },
+                                "issueCountry": "NZ"
+                            }
+                        ],
+                        "taxNumber": "12345678"
+                    },
+                    "fromCountry": "NZ"
+                },
+                "tToMyClient": {
+                    "TYPE_NAME": "NZ.Report.Transaction.TToMyClient",
+                    "toFundsCode": "N",
+                    "toAccount": {
+                        "TYPE_NAME": "NZ.TAccountMyClient",
+                        "institutionName": "ABC Bank",
+                        "swift": "ABCWNNZ",
+                        "nonBankInstitution": false,
+                        "branch": "Manners Street Wellington",
+                        "account": "112234456789",
+                        "currencyCode": "NZD",
+                        "accountName": "Mickey Mouse",
+                        "personalAccountType": "I",
+                        "signatory": [
+                            {
+                                "TYPE_NAME": "NZ.TAccountMyClient.Signatory",
+                                "isPrimary": true,
+                                "tPerson": {
+                                    "TYPE_NAME": "NZ.TPersonMyClient",
+                                    "gender": "M",
+                                    "title": {
+                                        "name": {
+                                            "namespaceURI": "",
+                                            "localPart": "title",
+                                            "prefix": "",
+                                            "key": "title",
+                                            "string": "title"
+                                        },
+                                        "value": "Mr"
+                                    },
+                                    "firstName": "Mickey",
+                                    "lastName": "Mouse",
+                                    "birthdate": {
+                                        "year": 1970,
+                                        "month": 2,
+                                        "day": 1,
+                                        "hour": 0,
+                                        "minute": 0,
+                                        "second": 0,
+                                        "fractionalSecond": 0,
+                                        "timezone": null,
+                                        "date": "1970-02-01T00:00:00.000Z"
+                                    },
+                                    "passportNumber": "AA1234567",
+                                    "passportCountry": "NZ",
+                                    "residence": "NZ",
+                                    "phones": {
+                                        "TYPE_NAME": "NZ.TPersonMyClient.Phones",
+                                        "phone": [
+                                            {
+                                                "TYPE_NAME": "NZ.TPhone",
+                                                "tphContactType": "I",
+                                                "tphCommunicationType": "B",
+                                                "tphCountryPrefix": "64",
+                                                "tphNumber": "045678910"
+                                            }
+                                        ]
+                                    },
+                                    "addresses": {
+                                        "TYPE_NAME": "NZ.TPersonMyClient.Addresses",
+                                        "address": [
+                                            {
+                                                "TYPE_NAME": "NZ.TAddress",
+                                                "addressType": "I",
+                                                "address": "24 Disney Street",
+                                                "city": "Wellington",
+                                                "zip": "6010",
+                                                "countryCode": "NZ"
+                                            }
+                                        ]
+                                    },
+                                    "email": [
+                                        "mickeymouse@disney.co.nz"
+                                    ],
+                                    "employerAddressId": {
+                                        "TYPE_NAME": "NZ.TAddress",
+                                        "addressType": "S",
+                                        "address": "3 Rodent Grove",
+                                        "city": "Lower Hutt",
+                                        "zip": "5010",
+                                        "countryCode": "NZ"
+                                    },
+                                    "employerPhoneId": {
+                                        "TYPE_NAME": "NZ.TPhone",
+                                        "tphContactType": "S",
+                                        "tphCommunicationType": "B",
+                                        "tphCountryPrefix": "64",
+                                        "tphNumber": "0499887766",
+                                        "tphExtension": "45321"
+                                    },
+                                    "identification": [
+                                        {
+                                            "TYPE_NAME": "NZ.TPersonIdentification",
+                                            "type": "A",
+                                            "number": "AA222222",
+                                            "issueCountry": "NZ"
+                                        },
+                                        {
+                                            "TYPE_NAME": "NZ.TPersonIdentification",
+                                            "type": "F",
+                                            "number": "AA1234567",
+                                            "issueDate": {
+                                                "year": 2012,
+                                                "month": 5,
+                                                "day": 15,
+                                                "hour": 0,
+                                                "minute": 0,
+                                                "second": 0,
+                                                "fractionalSecond": 0,
+                                                "timezone": null,
+                                                "date": "2012-05-15T00:00:00.000Z"
+                                            },
+                                            "expiryDate": {
+                                                "year": 2017,
+                                                "month": 5,
+                                                "day": 15,
+                                                "hour": 0,
+                                                "minute": 0,
+                                                "second": 0,
+                                                "fractionalSecond": 0,
+                                                "timezone": null,
+                                                "date": "2017-05-15T00:00:00.000Z"
+                                            },
+                                            "issueCountry": "NZ"
+                                        }
+                                    ],
+                                    "taxNumber": "12345678"
+                                },
+                                "role": "A"
+                            }
+                        ],
+                        "opened": {
+                            "year": 1995,
+                            "month": 5,
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "second": 0,
+                            "fractionalSecond": 0,
+                            "timezone": null,
+                            "date": "1995-05-05T00:00:00.000Z"
+                        },
+                        "statusCode": "A"
+                    },
+                    "toCountry": "NZ"
+                }
+            },
+            {
+                "TYPE_NAME": "NZ.Report.Transaction",
+                "transactionnumber": "TW00000902-161215",
+                "transactionLocation": "1 Manners Street Wellington",
+                "transactionDescription": "Bank cheque made payable to Donald Duck Enterprises China",
+                "dateTransaction": {
+                    "year": 2015,
+                    "month": 12,
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0,
+                    "fractionalSecond": 0,
+                    "timezone": null,
+                    "date": "2015-12-02T00:00:00.000Z"
+                },
+                "transmodeCode": "BO",
+                "amountLocal": 5000,
+                "tFromMyClient": {
+                    "TYPE_NAME": "NZ.Report.Transaction.TFromMyClient",
+                    "fromFundsCode": "N",
+                    "fromAccount": {
+                        "TYPE_NAME": "NZ.TAccountMyClient",
+                        "institutionName": "ABC Bank",
+                        "swift": "ABCWNNZ",
+                        "nonBankInstitution": false,
+                        "branch": "Manners Street Wellington",
+                        "account": "112234456789",
+                        "currencyCode": "NZD",
+                        "accountName": "Mickey Mouse",
+                        "personalAccountType": "I",
+                        "signatory": [
+                            {
+                                "TYPE_NAME": "NZ.TAccountMyClient.Signatory",
+                                "isPrimary": true,
+                                "tPerson": {
+                                    "TYPE_NAME": "NZ.TPersonMyClient",
+                                    "gender": "M",
+                                    "title": {
+                                        "name": {
+                                            "namespaceURI": "",
+                                            "localPart": "title",
+                                            "prefix": "",
+                                            "key": "title",
+                                            "string": "title"
+                                        },
+                                        "value": "Mr"
+                                    },
+                                    "firstName": "Mickey",
+                                    "lastName": "Mouse",
+                                    "birthdate": {
+                                        "year": 1970,
+                                        "month": 2,
+                                        "day": 1,
+                                        "hour": 0,
+                                        "minute": 0,
+                                        "second": 0,
+                                        "fractionalSecond": 0,
+                                        "timezone": null,
+                                        "date": "1970-02-01T00:00:00.000Z"
+                                    },
+                                    "passportNumber": "AA1234567",
+                                    "passportCountry": "NZ",
+                                    "residence": "NZ",
+                                    "phones": {
+                                        "TYPE_NAME": "NZ.TPersonMyClient.Phones",
+                                        "phone": [
+                                            {
+                                                "TYPE_NAME": "NZ.TPhone",
+                                                "tphContactType": "I",
+                                                "tphCommunicationType": "B",
+                                                "tphCountryPrefix": "64",
+                                                "tphNumber": "045678910"
+                                            }
+                                        ]
+                                    },
+                                    "addresses": {
+                                        "TYPE_NAME": "NZ.TPersonMyClient.Addresses",
+                                        "address": [
+                                            {
+                                                "TYPE_NAME": "NZ.TAddress",
+                                                "addressType": "I",
+                                                "address": "24 Disney Street",
+                                                "city": "Wellington",
+                                                "zip": "6010",
+                                                "countryCode": "NZ"
+                                            }
+                                        ]
+                                    },
+                                    "email": [
+                                        "mickeymouse@disney.co.nz"
+                                    ],
+                                    "employerAddressId": {
+                                        "TYPE_NAME": "NZ.TAddress",
+                                        "addressType": "S",
+                                        "address": "3 Rodent Grove",
+                                        "city": "Lower Hutt",
+                                        "zip": "5010",
+                                        "countryCode": "NZ"
+                                    },
+                                    "employerPhoneId": {
+                                        "TYPE_NAME": "NZ.TPhone",
+                                        "tphContactType": "S",
+                                        "tphCommunicationType": "B",
+                                        "tphCountryPrefix": "64",
+                                        "tphNumber": "0499887766",
+                                        "tphExtension": "45321"
+                                    },
+                                    "identification": [
+                                        {
+                                            "TYPE_NAME": "NZ.TPersonIdentification",
+                                            "type": "A",
+                                            "number": "AA222222",
+                                            "issueCountry": "NZ"
+                                        },
+                                        {
+                                            "TYPE_NAME": "NZ.TPersonIdentification",
+                                            "type": "F",
+                                            "number": "AA1234567",
+                                            "issueDate": {
+                                                "year": 2012,
+                                                "month": 5,
+                                                "day": 15,
+                                                "hour": 0,
+                                                "minute": 0,
+                                                "second": 0,
+                                                "fractionalSecond": 0,
+                                                "timezone": null,
+                                                "date": "2012-05-15T00:00:00.000Z"
+                                            },
+                                            "expiryDate": {
+                                                "year": 2017,
+                                                "month": 5,
+                                                "day": 15,
+                                                "hour": 0,
+                                                "minute": 0,
+                                                "second": 0,
+                                                "fractionalSecond": 0,
+                                                "timezone": null,
+                                                "date": "2017-05-15T00:00:00.000Z"
+                                            },
+                                            "issueCountry": "NZ"
+                                        }
+                                    ],
+                                    "taxNumber": "12345678"
+                                },
+                                "role": "A"
+                            }
+                        ],
+                        "opened": {
+                            "year": 1995,
+                            "month": 5,
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "second": 0,
+                            "fractionalSecond": 0,
+                            "timezone": null,
+                            "date": "1995-05-05T00:00:00.000Z"
+                        },
+                        "statusCode": "A"
+                    },
+                    "fromCountry": "NZ"
+                },
+                "tTo": {
+                    "TYPE_NAME": "NZ.Report.Transaction.TTo",
+                    "toFundsCode": "A",
+                    "toForeignCurrency": {
+                        "TYPE_NAME": "NZ.TForeignCurrency",
+                        "foreignCurrencyCode": "CNY",
+                        "foreignAmount": 21284,
+                        "foreignExchangeRate": 4.25
+                    },
+                    "toEntity": {
+                        "TYPE_NAME": "NZ.TEntity",
+                        "name": "Donald Duck Enterprises",
+                        "addresses": {
+                            "TYPE_NAME": "NZ.TEntity.Addresses",
+                            "address": [
+                                {
+                                    "TYPE_NAME": "NZ.TAddress",
+                                    "addressType": "C",
+                                    "address": "5 Flowerpot Lane",
+                                    "city": "Beijing",
+                                    "countryCode": "CN"
+                                }
+                            ]
+                        },
+                        "incorporationCountryCode": "CN"
+                    },
+                    "toCountry": "CN"
+                }
+            }
+        ],
+        "reportIndicators": {
+            "TYPE_NAME": "NZ.Report.ReportIndicators",
+            "indicator": [
+                "RBNZ",
+                "OB"
+            ]
+        }
+    }
+}

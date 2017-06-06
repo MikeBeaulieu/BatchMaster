@@ -1,0 +1,5 @@
+Generating Fake Data
+1. After the json-schema-faker and json-schema-faker-cli modules are installed:
+    generate-json buildScripts\mockFintracDataSchema.json src\seed\fintracdata.json
+
+    

@@ -1,0 +1,138 @@
+export const schema = {
+  "type": "object",
+  "properties": {
+    "imports": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "properties": {
+          "importid": {
+              "type": "number",
+              "unique": true,
+              "minimum": 1
+            },
+          "header": {
+            "tradeid": {
+              "type": "number",
+              "pattern":"10003454"
+            },
+            "transactionid": {
+              "type": "number",
+              "pattern": "555231"
+            },
+            "transactionsource": {
+              "type": "string",
+              "pattern": "TradePayments"
+            },
+            "reporttype": {
+              "type": "string",
+              "pattern": "EFTO|EFTI"
+
+            }
+          }, // end header
+           "parta": {
+            "transactiondate_time": {
+              "type": "number",
+              "unique": true,
+              "minimum": 1
+            },
+            "transactionamount": {
+              "type": "number",
+              "pattern": "100000|200000|300000"
+            },
+            "twentylfourhourindicator": {
+              "type": "number",
+              "pattern": "0|1"
+            },
+            "transactioncurrency": {
+              "type": "string",
+              "pattern": "CAD"
+            },
+            "exchangerate":{
+              "type": "number",
+              "pattern":"1.00"
+
+            },
+            "statuscode":{
+              "type": "number",
+              "pattern": "0|1"
+
+            }
+          }, // end parta
+
+          "partb": {
+            "companyname": {
+              "type": "number",
+              "unique": true,
+              "minimum": 1
+            },
+            "individualsurname": {
+              "type": "number",
+              "pattern": "100000|200000|300000"
+            },
+            "individualgivenname": {
+              "type": "number",
+              "pattern": "0|1"
+            },
+            "streetaddress": {
+              "type": "string",
+              "pattern": "CAD"
+            },
+            "city":{
+              "type": "number",
+              "pattern":"1.00"
+            },
+             "country": {
+              "type": "number"
+            },
+            "province": {
+              "type": "number",
+              "pattern": "100000|200000|300000"
+            },
+            "postalcode": {
+              "type": "number",
+              "pattern": "0|1"
+            },
+            "telephonenumber": {
+              "type": "string",
+              "pattern": "CAD"
+            },
+            "individualdateofbirth":{
+              "type": "number",
+              "pattern":"1.00"
+            },
+            "individualsoccupation": {
+              "type": "number",
+              "pattern": "100000|200000|300000"
+            },
+            "accountnumber": {
+              "type": "number",
+              "pattern": "0|1"
+            },
+            "individualidentifier": {
+              "type": "string",
+              "pattern": "CAD"
+            },
+            "otherdescription":{
+              "type": "number",
+              "pattern":"1.00"
+            },
+            "idnumber":{
+              "type": "number",
+              "pattern":"1.00"
+            },
+            "statuscode":{
+              "type": "number",
+              "pattern": "0|1"
+            }
+          } // end part b
+
+        }, // end properties
+         "required":["header", "parta", "partb"]
+      } // end items
+    } // end imports
+  } , // end properties
+  "required":["imports"]
+};
