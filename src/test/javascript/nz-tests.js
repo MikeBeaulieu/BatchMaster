@@ -1,3 +1,5 @@
+"use strict";
+
 var Jsonix = require('jsonix').Jsonix;
 var NZ = require('../../../target/generated-sources/xjc/NewZealand.std').NZ;
 

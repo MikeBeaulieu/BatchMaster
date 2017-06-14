@@ -1,3 +1,5 @@
+"use strict";
+
 var Jsonix = require('jsonix').Jsonix;
 var PO = require('../../../target/generated-sources/xjc/PurchaseOrder.std').PO;
 
